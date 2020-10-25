@@ -1,0 +1,38 @@
+header {
+  margin: auto;
+  max-width: 960px;
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  border-bottom: grey 2px solid;
+}
+.footer {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 960px;
+  padding-bottom: 60px;
+  padding-top: 60px;
+  padding-left: 60px;
+  padding-right: 60px;
+  color: white;
+  background-color: #093427bb;
+}
+.main-container {
+  margin: 0 auto;
+  max-width: 660px;
+  padding-top: 60px;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+.logo {
+  height: 80px;
+}
+.profile-image {
+  height: 140px;
+  width: 140px;
+  border-radius: 50%;
+}
+.float-right {
+  float: right;
+}
